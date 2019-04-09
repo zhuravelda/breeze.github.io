@@ -1,0 +1,11 @@
+@mixin font-contructor ($font-family, $weight, $size, $height, $color: $base-color) {
+  font-family: $font-family;
+  src: url("../fonts/SegoeUI.woff") format("woff"),
+    url("../fonts/SegoeUI.woff2") format("woff2"),
+    url("../fonts/SegoeUI.eot") format("eot");
+  font-weight: $weight;
+  font-size: $size;
+  line-height: $height;
+  color: $color;
+}
+

@@ -1,0 +1,51 @@
+body {
+  font-family: "Bitter", Tahoma, serif;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.wrapper {
+  // background-color: $feedback-bg-color;
+  max-width: 1280px;
+  padding: 0 148px;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+// .visually-hidden:not(:focus):not(:active) {
+//   position: absolute;
+
+//   width: 1px;
+//   height: 1px;
+//   margin: -1px;
+//   border: 0;
+//   padding: 0;
+
+//   white-space: nowrap;
+
+//   clip-path: inset(100%);
+//   clip: rect(0 0 0 0);
+//   overflow: hidden;
+// }
+
+.visually-hidden {
+  position: absolute;
+  clip: rect(0 0 0 0);
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+// @media (max-width: $tablet-width) {
+//   .wrapper {
+//     margin: 0 auto;
+//     padding-left: 37px;
+//     padding-right: 37px;
+//     max-width: 768px;
+//   }
+// }
