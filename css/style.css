@@ -361,7 +361,7 @@ img {
   top: 12px;
   width: 16px;
   height: 12px;
-  background-image: url(../../img/icon-phone.png);
+  background-image: url(../img/icon-phone.png);
   background-size: 16px 12px;
   background-repeat: no-repeat;
   background-position: 0 0; }
@@ -443,7 +443,7 @@ img {
   letter-spacing: 0.025em;
   position: relative;
   border: 1px solid #777777;
-  background-image: url(../../img/search.png);
+  background-image: url(../img/search.png);
   background-repeat: no-repeat;
   background-position: 200px 10px;
   border-radius: 1px;
@@ -500,7 +500,7 @@ img {
   top: 25px;
   width: 16px;
   height: 13px;
-  background-image: url(../../img/icon-cart.png);
+  background-image: url(../img/icon-cart.png);
   background-size: 16px 13px;
   background-repeat: no-repeat;
   background-position: 0 0; }
@@ -741,7 +741,7 @@ img {
   top: 12px;
   width: 75px;
   height: 75px;
-  background-image: url(../../img/bg-icon1.jpg);
+  background-image: url(../img/bg-icon1.jpg);
   background-size: 75px 75px;
   background-position: 0 0;
   border-radius: 50%; }
@@ -753,7 +753,7 @@ img {
   top: 30px;
   width: 36px;
   height: 35px;
-  background-image: url(../../img/sale-sign.png);
+  background-image: url(../img/sale-sign.png);
   background-size: 36px 35px;
   background-repeat: no-repeat;
   background-position: 0 0; }
@@ -765,7 +765,7 @@ img {
   top: 0;
   width: 101px;
   height: 99px;
-  background-image: url(../../img/icon.png);
+  background-image: url(../img/icon.png);
   background-size: 101px 99px;
   background-repeat: no-repeat;
   background-position: 0 0; }
@@ -777,7 +777,7 @@ img {
   top: 12px;
   width: 75px;
   height: 75px;
-  background-image: url(../../img/bg-icon3.jpg);
+  background-image: url(../img/bg-icon3.jpg);
   background-size: 75px 75px;
   background-position: 0 0;
   border-radius: 50%; }
@@ -789,7 +789,7 @@ img {
   top: 38px;
   width: 33px;
   height: 23px;
-  background-image: url(../../img/scan-label.png);
+  background-image: url(../img/scan-label.png);
   background-size: 33px 23px;
   background-repeat: no-repeat;
   background-position: 0 0; }
@@ -1003,7 +1003,7 @@ img {
   z-index: 1002; }
 
 .slick-next:before {
-  content: url(../../img/next2.png);
+  content: url(../img/next2.png);
   width: 42px;
   background-color: rgba(255, 255, 255, 0.85);
   background-repeat: no-repeat;
@@ -1011,7 +1011,7 @@ img {
   z-index: 1002; }
 
 .slick-prev:before {
-  content: url(../../img/prev2.png);
+  content: url(../img/prev2.png);
   width: 42px;
   background-color: rgba(255, 255, 255, 0.85);
   background-repeat: no-repeat;
